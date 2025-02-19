@@ -1,3 +1,30 @@
+/*
+
+
+PARA EJECUTAR
+
+1. g++ -o punto_e punto_e.cpp -lm
+2. Editar params.txt
+3. ./punto_e
+4. visualice el resultado en result.txt
+
+
+
+el params.txt  se ve como
+a b c d e
+
+
+con la forma 
+a = tiempo_entre_llegadas  
+b = tiempo_servicio  
+c = numero_clientes  
+d = numero_servidores  
+e = tipo_simulacion (0 para erlang b y 1 para erlang c)
+
+
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
