@@ -1,17 +1,19 @@
-Sistema de Colas Simple
+Simulador de Colas para Fórmulas de Erlang
 
-Tiempo promedio de llegada      7.000 minutos
+Tiempo Medio entre Llegadas: 1.000000
+Tiempo Medio de Servicio:      2.400000
+Número de Llegadas:           10000
+Número de Servidores (N):     3
+Tipo de Simulación: Erlang B (Sistema de Pérdida)
 
-Tiempo promedio de atencion           8.000 minutos
-
-Numero de clientes             5
 
 
-
-Espera promedio en la cola     33.271 minutos
-
-Numero promedio en cola     0.256
-
-Uso del servidor          0.821
-
-Tiempo de terminacion de la simulacion     648.786 minutos
+--- Resultados de la Simulación ---
+Tiempo Total de Simulación: 10207.987811
+Total de Llegadas:          10000
+Total Atendidas:            7307
+Total Bloqueadas:           2693
+Probabilidad de Bloqueo (Simulada): 0.269300
+Carga Ofrecida (A = λ/μ):     2.400000
+Probabilidad de Bloqueo (Teórica Erlang B): 0.268406
+Número Promedio de Servidores Ocupados: 1.746141
