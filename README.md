@@ -5,7 +5,7 @@ El anterior comando compilar el codigo y genera un archivo "simulador.exe".
 
 3) .\simulador.exe
 
-Al ejecutar el simulador se obtiene los un archivo llamado resultados.csv, donde se encuentra un excel con las siguiente columnas en orden:
+Al ejecutar el simulador se obtiene un archivo llamado resultados.csv, donde se encuentra un excel con las siguiente columnas en orden:
 
 - lambda1
 - Demora_promedio
