@@ -1,0 +1,8 @@
+python -m venv venv
+
+pip freeze > requirements.txt
+
+
+chmod +x run_simulation.sh
+./run_simulation.sh
+

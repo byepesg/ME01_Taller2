@@ -1,0 +1,9 @@
+Sistema de Colas Gamma/Gamma/1
+
+Parámetros de llegada: alpha1 = 3.50, lambda1 = 5.00
+Parámetros de servicio: alpha2 = 4.30, lambda2 = 7.50
+Número de servidores: 1
+Clientes a simular: 1000
+
+
+Desbordamiento de la cola a la hora 57.653019
