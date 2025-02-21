@@ -1,2 +1,6 @@
-3.5 0 4.3 7.5 1000 2
-
+3.5  # alpha1
+1.0  # lambda1 (valor inicial, se variará para estimar P_cola)
+4.3  # alpha2
+7.5  # lambda2
+1    # m (número de servidores)
+1000 # num_esperas_requerido (número de clientes a simular)
