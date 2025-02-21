@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "lcgrand.cpp"  /* Encabezado para el generador de numeros aleatorios */
+#include "lcgrand.h"  /* Encabezado para el generador de numeros aleatorios */
 
 #define LIMITE_COLA 100  /* Capacidad maxima de la cola */
 #define OCUPADO      1  /* Indicador de Servidor Ocupado */
@@ -14,6 +14,8 @@ int   sig_tipo_evento, num_clientes_espera, num_esperas_requerido, num_eventos,
 float area_num_entra_cola, area_estado_servidor, media_entre_llegadas, media_atencion,
       tiempo_simulacion, tiempo_llegada[LIMITE_COLA + 1], tiempo_ultimo_evento, tiempo_sig_evento[3],
       total_de_esperas;
+float tiempo_total_con_cola = 0.0;  // Acumulador del tiempo en que hay clientes en cola
+
 FILE  *parametros, *resultados;
 
 void  inicializar(void);
@@ -162,7 +164,7 @@ void llegada(void)  /* Funcion de llegada */
 
         ++num_entra_cola;
 
-        /* Verifica si hay condición de desbordamiento */
+        /* Verifica si hay condiciï¿½n de desbordamiento */
 
         if (num_entra_cola > LIMITE_COLA) {
 
@@ -236,17 +238,21 @@ void salida(void)  /* Funcion de Salida. */
 }
 
 
-void reportes(void)  /* Funcion generadora de reportes. */
-{
-    /* Calcula y estima los estimados de las medidas deseadas de desempeño */  
+void reportes(void) {
+    /* Calcula y reporta los resultados */
     fprintf(resultados, "\n\nEspera promedio en la cola%11.3f minutos\n\n",
-            total_de_esperas / num_clientes_espera);
+            (num_clientes_espera > 0) ? total_de_esperas / num_clientes_espera : 0);
     fprintf(resultados, "Numero promedio en cola%10.3f\n\n",
             area_num_entra_cola / tiempo_simulacion);
     fprintf(resultados, "Uso del servidor%15.3f\n\n",
             area_estado_servidor / tiempo_simulacion);
-    fprintf(resultados, "Tiempo de terminacion de la simulacion%12.3f minutos", tiempo_simulacion);
+    fprintf(resultados, "Tiempo de terminacion de la simulacion%12.3f minutos\n", tiempo_simulacion);
+
+    /* Probabilidad de que haya clientes en cola */
+    float P_cola = tiempo_total_con_cola / tiempo_simulacion;
+    fprintf(resultados, "Probabilidad de que se forme cola P_cola(Î»1): %10.3f\n", P_cola);
 }
+
 
 
 void actualizar_estad_prom_tiempo(void)  /* Actualiza los acumuladores de
@@ -265,6 +271,10 @@ void actualizar_estad_prom_tiempo(void)  /* Actualiza los acumuladores de
 
     /*Actualiza el area bajo la funcion indicadora de servidor ocupado*/
     area_estado_servidor += estado_servidor * time_since_last_event;
+
+    if (num_entra_cola > 0) {
+        tiempo_total_con_cola += time_since_last_event;
+    }
 }
 
 
