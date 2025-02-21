@@ -1,4 +1,4 @@
-***Orden de ejercución***
+***Orden de ejecución***
 1) **Compilar**:  g++ "Gamma.cpp" lcgrand.cpp -o simulador -lm
 El anterior comando compilar el codigo y genera un archivo "simulador.exe".
 
