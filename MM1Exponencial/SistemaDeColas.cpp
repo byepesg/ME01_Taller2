@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "lcgrand.cpp"  /* Encabezado para el generador de numeros aleatorios */
+#include "lcgrand.h"  /* Encabezado para el generador de numeros aleatorios */
 
 #define LIMITE_COLA 100  /* Capacidad maxima de la cola */
 #define OCUPADO      1  /* Indicador de Servidor Ocupado */
