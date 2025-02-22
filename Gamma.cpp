@@ -21,8 +21,8 @@ int  num_en_cola;           /* Número actual de clientes en la cola */
 int  estado_servidor[MAX_SERVIDORES]; /* Estado de cada servidor: OCUPADO o LIBRE */
 
 int  num_esperas_requerido;     /* Número de clientes a simular */
-int  num_clientes_espera;       /* Cantidad de clientes atendidos */
-int  total_clientes_llegados;   /* Total de clientes que han llegado (para calcular Pcola) */
+int  num_clientes_espera;       /* Cantidad de clientes atendidos (completados) */
+int  total_clientes_llegados;   /* Total de clientes que han llegado (para calcular Pcola basado en llegadas) */
 int  clientes_que_esperan;      /* Se incrementa cada vez que un cliente llega y no encuentra un servidor libre */
 
 float alpha1, lambda1;    /* Parámetros de la Gamma para llegadas (λ₁ se variará) */
@@ -35,6 +35,9 @@ double tiempo_sig_evento[MAX_SERVIDORES + 1]; /* [0] para llegada, [1..m] para s
 double total_de_esperas;   /* Suma de los tiempos de espera en la cola */
 double area_num_en_cola;   /* Área bajo la curva del número de clientes en cola */
 double area_servidores_ocup; /* Área acumulada de servidores ocupados */
+
+/* Nueva variable: tiempo total en que hay cola (al menos 1 cliente esperando) */
+double tiempo_total_con_cola;
 
 double tiempo_llegada[LIMITE_COLA + 1];  /* Tiempo de llegada de cada cliente en cola */
 
@@ -83,13 +86,13 @@ void inicializar(void)
     area_servidores_ocup = 0.0;
     total_clientes_llegados = 0;
     clientes_que_esperan = 0;
+    tiempo_total_con_cola = 0.0;  /* Inicializamos el acumulador de tiempo con cola */
 
     double primer_llegada = random_gamma(alpha1, lambda1);
     tiempo_sig_evento[0] = tiempo_simulacion + primer_llegada;
     for (int i = 1; i <= m; i++){
         tiempo_sig_evento[i] = 1.0e+30;
     }
-    // Mensaje de depuración
     // printf("DEBUG: inicializar -> primera llegada en t=%.2f\n", tiempo_sig_evento[0]);
 }
 
@@ -108,7 +111,6 @@ void controltiempo(void)
         exit(1);
     }
     tiempo_simulacion = min_tiempo;
-    // Debug: imprimir evento
     // printf("DEBUG: controltiempo -> sig_tipo_evento=%d, t=%.2f\n", sig_tipo_evento, tiempo_simulacion);
 }
 
@@ -136,14 +138,14 @@ void llegada(void)
         }
         tiempo_llegada[num_en_cola] = tiempo_simulacion;
         // printf("DEBUG: LLEGADA -> Servidores ocupados. Cliente en cola. num_en_cola=%d\n", num_en_cola);
-        /* 
-         * Contamos aquí que el cliente tuvo que esperar 
-         * (porque no encontró un servidor libre). 
-         */
+        /* Se cuenta que el cliente tuvo que esperar */
         clientes_que_esperan++;  
     } else {
         estado_servidor[servidor_libre] = OCUPADO;
-        num_clientes_espera++;
+        /* 
+         * Ya no se incrementa num_clientes_espera aquí, 
+         * pues el cliente no termina su servicio inmediatamente.
+         */
         double servicio = random_gamma(alpha2, lambda2);
         tiempo_sig_evento[servidor_libre + 1] = tiempo_simulacion + servicio;
         // printf("DEBUG: LLEGADA -> Se atiende inmediato en servidor=%d, fin_serv=%.2f\n",
@@ -154,6 +156,9 @@ void llegada(void)
 void salida(int i)
 {
     int serv_idx = i - 1;
+    // Al finalizar el servicio, se cuenta al cliente atendido.
+    num_clientes_espera++;
+
     // printf("DEBUG: SALIDA -> servidor=%d, t=%.2f\n", serv_idx, tiempo_simulacion);
     if (num_en_cola == 0) {
         estado_servidor[serv_idx] = LIBRE;
@@ -163,14 +168,7 @@ void salida(int i)
         num_en_cola--;
         double espera = tiempo_simulacion - tiempo_llegada[1];
         total_de_esperas += espera;
-        num_clientes_espera++;
-
-        /* 
-         * ANTES: aquí se hacía otro "clientes_que_esperan++" si espera>0, 
-         * lo cual provocaba doble conteo. Lo eliminamos para no sobrecontar. 
-         */
-
-        /* Ajustar tiempos de llegada (corrimiento del array) */
+        /* Se remueve el cliente de la cola */
         for (int j = 1; j <= num_en_cola; j++){
             tiempo_llegada[j] = tiempo_llegada[j+1];
         }
@@ -192,6 +190,11 @@ void actualizar_estad_prom_tiempo(void)
             ocup++;
     }
     area_servidores_ocup += ocup * dt;
+
+    /* Acumular tiempo en el que hay cola (al menos 1 cliente esperando) */
+    if (num_en_cola > 0) {
+        tiempo_total_con_cola += dt;
+    }
 }
 
 /* ------------------------------------------------------------------
@@ -252,8 +255,11 @@ int main(void)
         printf("ERROR: No se pudo crear resultados.csv\n");
         return 1;
     }
-    /* Escribir encabezado en CSV */
-    fprintf(csv, "lambda1,Demora_promedio,Clientes_promedio,Utilizacion,Pcola,Tiempo_total\n");
+    /* Escribir encabezado en CSV.
+       Se distinguen dos medidas de Pcola:
+       - Pcola_arrivals: probabilidad de esperar (clientes que llegan y deben esperar)
+       - Pcola_tiempo: fracción del tiempo en que hay cola */
+    fprintf(csv, "lambda1,Demora_promedio,Clientes_promedio,Utilizacion,Pcola_arrivals,Pcola_tiempo,Tiempo_total\n");
 
     /* Para cada valor de lambda1 en lambdas.txt */
     while (fscanf(infile, "%f", &lambda1) == 1) {
@@ -266,17 +272,20 @@ int main(void)
         double demora_promedio = (num_clientes_espera > 0) ? (total_de_esperas / num_clientes_espera) : 0.0;
         double clientes_promedio = (tiempo_simulacion > 0.0) ? (area_num_en_cola / tiempo_simulacion) : 0.0;
         double utilizacion = (tiempo_simulacion > 0.0) ? (area_servidores_ocup / (m * tiempo_simulacion)) : 0.0;
-        double pcola = (total_clientes_llegados > 0)
-                           ? ((double)clientes_que_esperan / total_clientes_llegados)
-                           : 0.0;
+        double pcola_arrivals = (total_clientes_llegados > 0)
+                                ? ((double)clientes_que_esperan / total_clientes_llegados)
+                                : 0.0;
+        double pcola_tiempo = (tiempo_simulacion > 0.0)
+                              ? (tiempo_total_con_cola / tiempo_simulacion)
+                              : 0.0;
         double tiempo_total = tiempo_simulacion;
 
         /* Escribir línea en CSV */
-        fprintf(csv, "%.2f,%.3f,%.3f,%.3f,%.3f,%.3f\n",
-                lambda1, demora_promedio, clientes_promedio, utilizacion, pcola, tiempo_total);
+        fprintf(csv, "%.2f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f\n",
+                lambda1, demora_promedio, clientes_promedio, utilizacion, pcola_arrivals, pcola_tiempo, tiempo_total);
         /* Imprimir en consola (opcional) */
-        // printf("DEBUG: lambda1=%.2f: Delay=%.3f, ColaProm=%.3f, Util=%.3f, Pcola=%.3f, Tiempo=%.3f\n",
-        //        lambda1, demora_promedio, clientes_promedio, utilizacion, pcola, tiempo_total);
+        // printf("DEBUG: lambda1=%.2f: Delay=%.3f, ColaProm=%.3f, Util=%.3f, Pcola_arrivals=%.3f, Pcola_tiempo=%.3f, Tiempo=%.3f\n",
+        //        lambda1, demora_promedio, clientes_promedio, utilizacion, pcola_arrivals, pcola_tiempo, tiempo_total);
     }
 
     fclose(infile);
