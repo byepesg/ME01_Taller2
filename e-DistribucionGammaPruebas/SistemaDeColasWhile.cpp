@@ -35,7 +35,7 @@ int main(void)  /* Función principal */
     alpha1 = 3.5;
     alpha2 = 4.3;
     lambda2 = 7.5;
-    m = 1; /* Número de servidores */
+    m = 10; /* Número de servidores */
     num_esperas_requerido = 1000; /* Número de clientes a simular */
 
     /* Probamos varios valores de lambda1 */

@@ -18,11 +18,11 @@ print("p_cola_vals =", p_cola_vals)
 # p_cola_vals = [0.95, 0.85, 0.70, 0.50, 0.30, 0.10, 0.05]
 
 # Ajuste polinómico de grado 3
-coeficientes = np.polyfit(lambda1_vals, p_cola_vals, 20)
+coeficientes = np.polyfit(lambda1_vals, p_cola_vals, 3)
 polinomio = np.poly1d(coeficientes)
 
 # Graficar
-x = np.linspace(0.5, 3.5, 100)
+x = np.linspace(0.5, 20, 100)
 y = polinomio(x)
 
 plt.scatter(lambda1_vals, p_cola_vals, color='red', label='Datos de simulación')
