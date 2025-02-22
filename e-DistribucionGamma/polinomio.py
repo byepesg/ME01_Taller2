@@ -22,7 +22,7 @@ coeficientes = np.polyfit(lambda1_vals, p_cola_vals, 20)
 polinomio = np.poly1d(coeficientes)
 
 # Graficar
-x = np.linspace(0.5, 3.5, 100)
+x = np.linspace(0.5, 20, 100)
 y = polinomio(x)
 
 plt.scatter(lambda1_vals, p_cola_vals, color='red', label='Datos de simulación')
