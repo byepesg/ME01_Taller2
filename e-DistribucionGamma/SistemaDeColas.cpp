@@ -74,6 +74,7 @@ int main(void)
     fprintf(resultados_lambda, "%.2f  %.3f\n", lambda1, P_cola);
     printf("λ1 = %.2f, P_cola = %.3f\n", lambda1, P_cola);
 
+    reportes();
     fclose(resultados_lambda);
     return 0;
 }
@@ -172,4 +173,42 @@ float gamma_rand(float alpha, float lambda)
         sum += -log(lcgrand(1)) / lambda;
     }
     return sum;
+}
+
+
+void reportes(void) {
+    /* Abre el archivo de salida donde se guardarán los resultados detallados */
+    FILE *resultados = fopen("resultados_detallados.txt", "a");
+    if (resultados == NULL) {
+        printf("❌ Error: No se pudo abrir resultados_detallados.txt\n");
+        return;
+    }
+
+    /* Calcula métricas */
+    float demora_promedio = (num_clientes_espera > 0) ? total_de_esperas / num_clientes_espera : 0;
+    float clientes_promedio = area_num_entra_cola / tiempo_simulacion;
+    float utilizacion = area_estado_servidor / (m * tiempo_simulacion); // Uso relativo a m servidores
+    float P_cola = tiempo_total_con_cola / tiempo_simulacion;
+
+    /* Escribe los resultados en el archivo */
+    fprintf(resultados, "=========================================\n");
+    fprintf(resultados, "Simulación con λ1 = %.2f\n", lambda1);
+    fprintf(resultados, "=========================================\n");
+    fprintf(resultados, "Demora promedio en la cola:      %.3f minutos\n", demora_promedio);
+    fprintf(resultados, "Número promedio de clientes en cola: %.3f\n", clientes_promedio);
+    fprintf(resultados, "Utilización de los servidores:   %.3f\n", utilizacion);
+    fprintf(resultados, "Tiempo de terminación:           %.3f minutos\n", tiempo_simulacion);
+    fprintf(resultados, "Probabilidad de que haya cola:   %.3f\n", P_cola);
+    fprintf(resultados, "=========================================\n\n");
+
+    /* Cierra el archivo */
+    fclose(resultados);
+
+    /* Imprime en la terminal para confirmar la ejecución */
+    printf("\n📊 Reporte generado para λ1 = %.2f\n", lambda1);
+    printf("Demora promedio en cola: %.3f minutos\n", demora_promedio);
+    printf("Número promedio de clientes en cola: %.3f\n", clientes_promedio);
+    printf("Utilización de los servidores: %.3f\n", utilizacion);
+    printf("Tiempo de terminación: %.3f minutos\n", tiempo_simulacion);
+    printf("Probabilidad de cola (P_cola): %.3f\n\n", P_cola);
 }

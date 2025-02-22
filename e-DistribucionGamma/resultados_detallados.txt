@@ -1,0 +1,4020 @@
+=========================================
+Simulación con λ1 = 14.00
+=========================================
+Demora promedio en la cola:      50.482 minutos
+Número promedio de clientes en cola: 159.171
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.558 minutos
+Probabilidad de que haya cola:   1.565
+=========================================
+
+=========================================
+Simulación con λ1 = 14.01
+=========================================
+Demora promedio en la cola:      50.481 minutos
+Número promedio de clientes en cola: 159.203
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.543 minutos
+Probabilidad de que haya cola:   1.565
+=========================================
+
+=========================================
+Simulación con λ1 = 14.02
+=========================================
+Demora promedio en la cola:      50.480 minutos
+Número promedio de clientes en cola: 159.235
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.528 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.03
+=========================================
+Demora promedio en la cola:      50.479 minutos
+Número promedio de clientes en cola: 159.267
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.513 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.04
+=========================================
+Demora promedio en la cola:      50.479 minutos
+Número promedio de clientes en cola: 159.299
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.498 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.05
+=========================================
+Demora promedio en la cola:      50.478 minutos
+Número promedio de clientes en cola: 159.331
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.483 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.06
+=========================================
+Demora promedio en la cola:      50.477 minutos
+Número promedio de clientes en cola: 159.363
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.468 minutos
+Probabilidad de que haya cola:   1.567
+=========================================
+
+=========================================
+Simulación con λ1 = 14.07
+=========================================
+Demora promedio en la cola:      50.477 minutos
+Número promedio de clientes en cola: 159.394
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.454 minutos
+Probabilidad de que haya cola:   1.567
+=========================================
+
+=========================================
+Simulación con λ1 = 14.08
+=========================================
+Demora promedio en la cola:      50.476 minutos
+Número promedio de clientes en cola: 159.426
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.439 minutos
+Probabilidad de que haya cola:   1.567
+=========================================
+
+=========================================
+Simulación con λ1 = 14.09
+=========================================
+Demora promedio en la cola:      50.475 minutos
+Número promedio de clientes en cola: 159.458
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.424 minutos
+Probabilidad de que haya cola:   1.568
+=========================================
+
+=========================================
+Simulación con λ1 = 14.10
+=========================================
+Demora promedio en la cola:      50.474 minutos
+Número promedio de clientes en cola: 159.490
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.409 minutos
+Probabilidad de que haya cola:   1.568
+=========================================
+
+=========================================
+Simulación con λ1 = 14.11
+=========================================
+Demora promedio en la cola:      50.474 minutos
+Número promedio de clientes en cola: 159.521
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.395 minutos
+Probabilidad de que haya cola:   1.568
+=========================================
+
+=========================================
+Simulación con λ1 = 14.12
+=========================================
+Demora promedio en la cola:      50.473 minutos
+Número promedio de clientes en cola: 159.553
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.380 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.13
+=========================================
+Demora promedio en la cola:      50.472 minutos
+Número promedio de clientes en cola: 159.584
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.365 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.14
+=========================================
+Demora promedio en la cola:      50.471 minutos
+Número promedio de clientes en cola: 159.616
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.351 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.15
+=========================================
+Demora promedio en la cola:      50.471 minutos
+Número promedio de clientes en cola: 159.647
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.336 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.16
+=========================================
+Demora promedio en la cola:      50.470 minutos
+Número promedio de clientes en cola: 159.679
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.321 minutos
+Probabilidad de que haya cola:   1.570
+=========================================
+
+=========================================
+Simulación con λ1 = 14.17
+=========================================
+Demora promedio en la cola:      50.469 minutos
+Número promedio de clientes en cola: 159.710
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.307 minutos
+Probabilidad de que haya cola:   1.570
+=========================================
+
+=========================================
+Simulación con λ1 = 14.18
+=========================================
+Demora promedio en la cola:      50.469 minutos
+Número promedio de clientes en cola: 159.742
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.292 minutos
+Probabilidad de que haya cola:   1.570
+=========================================
+
+=========================================
+Simulación con λ1 = 14.19
+=========================================
+Demora promedio en la cola:      50.468 minutos
+Número promedio de clientes en cola: 159.773
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.278 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.20
+=========================================
+Demora promedio en la cola:      50.467 minutos
+Número promedio de clientes en cola: 159.804
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.263 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.21
+=========================================
+Demora promedio en la cola:      50.466 minutos
+Número promedio de clientes en cola: 159.836
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.249 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.22
+=========================================
+Demora promedio en la cola:      50.466 minutos
+Número promedio de clientes en cola: 159.867
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.234 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.23
+=========================================
+Demora promedio en la cola:      50.465 minutos
+Número promedio de clientes en cola: 159.898
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.220 minutos
+Probabilidad de que haya cola:   1.572
+=========================================
+
+=========================================
+Simulación con λ1 = 14.24
+=========================================
+Demora promedio en la cola:      50.464 minutos
+Número promedio de clientes en cola: 159.929
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.205 minutos
+Probabilidad de que haya cola:   1.572
+=========================================
+
+=========================================
+Simulación con λ1 = 14.25
+=========================================
+Demora promedio en la cola:      50.464 minutos
+Número promedio de clientes en cola: 159.960
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.191 minutos
+Probabilidad de que haya cola:   1.572
+=========================================
+
+=========================================
+Simulación con λ1 = 14.26
+=========================================
+Demora promedio en la cola:      50.463 minutos
+Número promedio de clientes en cola: 159.991
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.177 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.27
+=========================================
+Demora promedio en la cola:      50.462 minutos
+Número promedio de clientes en cola: 160.022
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.162 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.28
+=========================================
+Demora promedio en la cola:      50.461 minutos
+Número promedio de clientes en cola: 160.053
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.148 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.29
+=========================================
+Demora promedio en la cola:      50.461 minutos
+Número promedio de clientes en cola: 160.084
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.134 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.30
+=========================================
+Demora promedio en la cola:      50.460 minutos
+Número promedio de clientes en cola: 160.115
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.119 minutos
+Probabilidad de que haya cola:   1.574
+=========================================
+
+=========================================
+Simulación con λ1 = 14.31
+=========================================
+Demora promedio en la cola:      50.459 minutos
+Número promedio de clientes en cola: 160.146
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.105 minutos
+Probabilidad de que haya cola:   1.574
+=========================================
+
+=========================================
+Simulación con λ1 = 14.32
+=========================================
+Demora promedio en la cola:      50.459 minutos
+Número promedio de clientes en cola: 160.177
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.091 minutos
+Probabilidad de que haya cola:   1.574
+=========================================
+
+=========================================
+Simulación con λ1 = 14.33
+=========================================
+Demora promedio en la cola:      50.458 minutos
+Número promedio de clientes en cola: 160.207
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.076 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.34
+=========================================
+Demora promedio en la cola:      50.457 minutos
+Número promedio de clientes en cola: 160.238
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.062 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.35
+=========================================
+Demora promedio en la cola:      50.456 minutos
+Número promedio de clientes en cola: 160.269
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.048 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.36
+=========================================
+Demora promedio en la cola:      50.456 minutos
+Número promedio de clientes en cola: 160.299
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.034 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.37
+=========================================
+Demora promedio en la cola:      50.455 minutos
+Número promedio de clientes en cola: 160.330
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.020 minutos
+Probabilidad de que haya cola:   1.576
+=========================================
+
+=========================================
+Simulación con λ1 = 14.38
+=========================================
+Demora promedio en la cola:      50.454 minutos
+Número promedio de clientes en cola: 160.360
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.005 minutos
+Probabilidad de que haya cola:   1.576
+=========================================
+
+=========================================
+Simulación con λ1 = 14.39
+=========================================
+Demora promedio en la cola:      50.454 minutos
+Número promedio de clientes en cola: 160.391
+Utilización de los servidores:   0.788
+Tiempo de terminación:           542.991 minutos
+Probabilidad de que haya cola:   1.576
+=========================================
+
+=========================================
+Simulación con λ1 = 14.40
+=========================================
+Demora promedio en la cola:      50.453 minutos
+Número promedio de clientes en cola: 160.421
+Utilización de los servidores:   0.788
+Tiempo de terminación:           542.977 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.41
+=========================================
+Demora promedio en la cola:      50.452 minutos
+Número promedio de clientes en cola: 160.452
+Utilización de los servidores:   0.788
+Tiempo de terminación:           542.963 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.42
+=========================================
+Demora promedio en la cola:      50.452 minutos
+Número promedio de clientes en cola: 160.482
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.949 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.43
+=========================================
+Demora promedio en la cola:      50.451 minutos
+Número promedio de clientes en cola: 160.512
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.935 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.44
+=========================================
+Demora promedio en la cola:      50.450 minutos
+Número promedio de clientes en cola: 160.543
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.921 minutos
+Probabilidad de que haya cola:   1.578
+=========================================
+
+=========================================
+Simulación con λ1 = 14.45
+=========================================
+Demora promedio en la cola:      50.449 minutos
+Número promedio de clientes en cola: 160.573
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.907 minutos
+Probabilidad de que haya cola:   1.578
+=========================================
+
+=========================================
+Simulación con λ1 = 14.46
+=========================================
+Demora promedio en la cola:      50.449 minutos
+Número promedio de clientes en cola: 160.603
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.893 minutos
+Probabilidad de que haya cola:   1.578
+=========================================
+
+=========================================
+Simulación con λ1 = 14.47
+=========================================
+Demora promedio en la cola:      50.448 minutos
+Número promedio de clientes en cola: 160.633
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.879 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.48
+=========================================
+Demora promedio en la cola:      50.447 minutos
+Número promedio de clientes en cola: 160.663
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.865 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.49
+=========================================
+Demora promedio en la cola:      50.447 minutos
+Número promedio de clientes en cola: 160.694
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.851 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.50
+=========================================
+Demora promedio en la cola:      50.446 minutos
+Número promedio de clientes en cola: 160.724
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.837 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.51
+=========================================
+Demora promedio en la cola:      50.445 minutos
+Número promedio de clientes en cola: 160.754
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.823 minutos
+Probabilidad de que haya cola:   1.580
+=========================================
+
+=========================================
+Simulación con λ1 = 14.52
+=========================================
+Demora promedio en la cola:      50.445 minutos
+Número promedio de clientes en cola: 160.784
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.809 minutos
+Probabilidad de que haya cola:   1.580
+=========================================
+
+=========================================
+Simulación con λ1 = 14.53
+=========================================
+Demora promedio en la cola:      50.444 minutos
+Número promedio de clientes en cola: 160.813
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.795 minutos
+Probabilidad de que haya cola:   1.580
+=========================================
+
+=========================================
+Simulación con λ1 = 14.54
+=========================================
+Demora promedio en la cola:      50.443 minutos
+Número promedio de clientes en cola: 160.843
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.782 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.55
+=========================================
+Demora promedio en la cola:      50.443 minutos
+Número promedio de clientes en cola: 160.873
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.768 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.56
+=========================================
+Demora promedio en la cola:      50.442 minutos
+Número promedio de clientes en cola: 160.903
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.754 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.57
+=========================================
+Demora promedio en la cola:      50.441 minutos
+Número promedio de clientes en cola: 160.933
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.740 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.58
+=========================================
+Demora promedio en la cola:      50.441 minutos
+Número promedio de clientes en cola: 160.962
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.726 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.59
+=========================================
+Demora promedio en la cola:      50.440 minutos
+Número promedio de clientes en cola: 160.992
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.713 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.60
+=========================================
+Demora promedio en la cola:      50.439 minutos
+Número promedio de clientes en cola: 161.022
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.699 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.61
+=========================================
+Demora promedio en la cola:      50.438 minutos
+Número promedio de clientes en cola: 161.051
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.685 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.62
+=========================================
+Demora promedio en la cola:      50.438 minutos
+Número promedio de clientes en cola: 161.081
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.672 minutos
+Probabilidad de que haya cola:   1.583
+=========================================
+
+=========================================
+Simulación con λ1 = 14.63
+=========================================
+Demora promedio en la cola:      50.437 minutos
+Número promedio de clientes en cola: 161.111
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.658 minutos
+Probabilidad de que haya cola:   1.583
+=========================================
+
+=========================================
+Simulación con λ1 = 14.64
+=========================================
+Demora promedio en la cola:      50.436 minutos
+Número promedio de clientes en cola: 161.140
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.644 minutos
+Probabilidad de que haya cola:   1.583
+=========================================
+
+=========================================
+Simulación con λ1 = 14.65
+=========================================
+Demora promedio en la cola:      50.436 minutos
+Número promedio de clientes en cola: 161.169
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.631 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.66
+=========================================
+Demora promedio en la cola:      50.435 minutos
+Número promedio de clientes en cola: 161.199
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.617 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.67
+=========================================
+Demora promedio en la cola:      50.434 minutos
+Número promedio de clientes en cola: 161.228
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.603 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.68
+=========================================
+Demora promedio en la cola:      50.434 minutos
+Número promedio de clientes en cola: 161.258
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.590 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.69
+=========================================
+Demora promedio en la cola:      50.433 minutos
+Número promedio de clientes en cola: 161.287
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.576 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.70
+=========================================
+Demora promedio en la cola:      50.432 minutos
+Número promedio de clientes en cola: 161.316
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.563 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.71
+=========================================
+Demora promedio en la cola:      50.432 minutos
+Número promedio de clientes en cola: 161.345
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.549 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.72
+=========================================
+Demora promedio en la cola:      50.431 minutos
+Número promedio de clientes en cola: 161.375
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.536 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.73
+=========================================
+Demora promedio en la cola:      50.430 minutos
+Número promedio de clientes en cola: 161.404
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.522 minutos
+Probabilidad de que haya cola:   1.586
+=========================================
+
+=========================================
+Simulación con λ1 = 14.74
+=========================================
+Demora promedio en la cola:      50.430 minutos
+Número promedio de clientes en cola: 161.433
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.509 minutos
+Probabilidad de que haya cola:   1.586
+=========================================
+
+=========================================
+Simulación con λ1 = 14.75
+=========================================
+Demora promedio en la cola:      50.429 minutos
+Número promedio de clientes en cola: 161.462
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.495 minutos
+Probabilidad de que haya cola:   1.586
+=========================================
+
+=========================================
+Simulación con λ1 = 14.76
+=========================================
+Demora promedio en la cola:      50.428 minutos
+Número promedio de clientes en cola: 161.491
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.482 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.77
+=========================================
+Demora promedio en la cola:      50.428 minutos
+Número promedio de clientes en cola: 161.520
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.468 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.78
+=========================================
+Demora promedio en la cola:      50.427 minutos
+Número promedio de clientes en cola: 161.549
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.455 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.79
+=========================================
+Demora promedio en la cola:      50.426 minutos
+Número promedio de clientes en cola: 161.578
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.442 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.80
+=========================================
+Demora promedio en la cola:      50.426 minutos
+Número promedio de clientes en cola: 161.607
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.428 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.81
+=========================================
+Demora promedio en la cola:      50.425 minutos
+Número promedio de clientes en cola: 161.636
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.415 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.82
+=========================================
+Demora promedio en la cola:      50.424 minutos
+Número promedio de clientes en cola: 161.664
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.402 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.83
+=========================================
+Demora promedio en la cola:      50.424 minutos
+Número promedio de clientes en cola: 161.693
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.388 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.84
+=========================================
+Demora promedio en la cola:      50.423 minutos
+Número promedio de clientes en cola: 161.722
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.375 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.85
+=========================================
+Demora promedio en la cola:      50.422 minutos
+Número promedio de clientes en cola: 161.751
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.362 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.86
+=========================================
+Demora promedio en la cola:      50.422 minutos
+Número promedio de clientes en cola: 161.779
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.348 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.87
+=========================================
+Demora promedio en la cola:      50.421 minutos
+Número promedio de clientes en cola: 161.808
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.335 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.88
+=========================================
+Demora promedio en la cola:      50.421 minutos
+Número promedio de clientes en cola: 161.836
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.322 minutos
+Probabilidad de que haya cola:   1.590
+=========================================
+
+=========================================
+Simulación con λ1 = 14.89
+=========================================
+Demora promedio en la cola:      50.420 minutos
+Número promedio de clientes en cola: 161.865
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.309 minutos
+Probabilidad de que haya cola:   1.590
+=========================================
+
+=========================================
+Simulación con λ1 = 14.90
+=========================================
+Demora promedio en la cola:      50.419 minutos
+Número promedio de clientes en cola: 161.894
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.296 minutos
+Probabilidad de que haya cola:   1.590
+=========================================
+
+=========================================
+Simulación con λ1 = 14.91
+=========================================
+Demora promedio en la cola:      50.419 minutos
+Número promedio de clientes en cola: 161.922
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.282 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.92
+=========================================
+Demora promedio en la cola:      50.418 minutos
+Número promedio de clientes en cola: 161.951
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.269 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.93
+=========================================
+Demora promedio en la cola:      50.417 minutos
+Número promedio de clientes en cola: 161.979
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.256 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.94
+=========================================
+Demora promedio en la cola:      50.417 minutos
+Número promedio de clientes en cola: 162.007
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.243 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.95
+=========================================
+Demora promedio en la cola:      50.416 minutos
+Número promedio de clientes en cola: 162.036
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.230 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.96
+=========================================
+Demora promedio en la cola:      50.415 minutos
+Número promedio de clientes en cola: 162.064
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.217 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.97
+=========================================
+Demora promedio en la cola:      50.415 minutos
+Número promedio de clientes en cola: 162.092
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.204 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.98
+=========================================
+Demora promedio en la cola:      50.414 minutos
+Número promedio de clientes en cola: 162.120
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.191 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.99
+=========================================
+Demora promedio en la cola:      50.413 minutos
+Número promedio de clientes en cola: 162.149
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.178 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.00
+=========================================
+Demora promedio en la cola:      50.413 minutos
+Número promedio de clientes en cola: 162.177
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.165 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.01
+=========================================
+Demora promedio en la cola:      50.412 minutos
+Número promedio de clientes en cola: 162.205
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.152 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.02
+=========================================
+Demora promedio en la cola:      50.411 minutos
+Número promedio de clientes en cola: 162.233
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.139 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.03
+=========================================
+Demora promedio en la cola:      50.411 minutos
+Número promedio de clientes en cola: 162.261
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.126 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.04
+=========================================
+Demora promedio en la cola:      50.410 minutos
+Número promedio de clientes en cola: 162.289
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.113 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.05
+=========================================
+Demora promedio en la cola:      50.410 minutos
+Número promedio de clientes en cola: 162.317
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.100 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.06
+=========================================
+Demora promedio en la cola:      50.409 minutos
+Número promedio de clientes en cola: 162.345
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.087 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.07
+=========================================
+Demora promedio en la cola:      50.408 minutos
+Número promedio de clientes en cola: 162.373
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.074 minutos
+Probabilidad de que haya cola:   1.595
+=========================================
+
+=========================================
+Simulación con λ1 = 15.08
+=========================================
+Demora promedio en la cola:      50.408 minutos
+Número promedio de clientes en cola: 162.401
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.061 minutos
+Probabilidad de que haya cola:   1.595
+=========================================
+
+=========================================
+Simulación con λ1 = 15.09
+=========================================
+Demora promedio en la cola:      50.407 minutos
+Número promedio de clientes en cola: 162.429
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.048 minutos
+Probabilidad de que haya cola:   1.595
+=========================================
+
+=========================================
+Simulación con λ1 = 15.10
+=========================================
+Demora promedio en la cola:      50.406 minutos
+Número promedio de clientes en cola: 162.456
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.036 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.11
+=========================================
+Demora promedio en la cola:      50.406 minutos
+Número promedio de clientes en cola: 162.484
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.023 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.12
+=========================================
+Demora promedio en la cola:      50.405 minutos
+Número promedio de clientes en cola: 162.512
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.010 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.13
+=========================================
+Demora promedio en la cola:      50.404 minutos
+Número promedio de clientes en cola: 162.539
+Utilización de los servidores:   0.798
+Tiempo de terminación:           541.997 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.14
+=========================================
+Demora promedio en la cola:      50.404 minutos
+Número promedio de clientes en cola: 162.567
+Utilización de los servidores:   0.798
+Tiempo de terminación:           541.984 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.15
+=========================================
+Demora promedio en la cola:      50.403 minutos
+Número promedio de clientes en cola: 162.595
+Utilización de los servidores:   0.798
+Tiempo de terminación:           541.972 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.16
+=========================================
+Demora promedio en la cola:      50.403 minutos
+Número promedio de clientes en cola: 162.622
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.959 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.17
+=========================================
+Demora promedio en la cola:      50.402 minutos
+Número promedio de clientes en cola: 162.650
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.946 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.18
+=========================================
+Demora promedio en la cola:      50.401 minutos
+Número promedio de clientes en cola: 162.677
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.934 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.19
+=========================================
+Demora promedio en la cola:      50.401 minutos
+Número promedio de clientes en cola: 162.705
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.921 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.20
+=========================================
+Demora promedio en la cola:      50.400 minutos
+Número promedio de clientes en cola: 162.732
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.908 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.21
+=========================================
+Demora promedio en la cola:      50.399 minutos
+Número promedio de clientes en cola: 162.759
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.896 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.22
+=========================================
+Demora promedio en la cola:      50.399 minutos
+Número promedio de clientes en cola: 162.787
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.883 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.23
+=========================================
+Demora promedio en la cola:      50.398 minutos
+Número promedio de clientes en cola: 162.814
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.870 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.24
+=========================================
+Demora promedio en la cola:      50.398 minutos
+Número promedio de clientes en cola: 162.842
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.858 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.25
+=========================================
+Demora promedio en la cola:      50.397 minutos
+Número promedio de clientes en cola: 162.869
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.845 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.26
+=========================================
+Demora promedio en la cola:      50.396 minutos
+Número promedio de clientes en cola: 162.896
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.833 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.27
+=========================================
+Demora promedio en la cola:      50.396 minutos
+Número promedio de clientes en cola: 162.923
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.820 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.28
+=========================================
+Demora promedio en la cola:      50.395 minutos
+Número promedio de clientes en cola: 162.950
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.807 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.29
+=========================================
+Demora promedio en la cola:      50.394 minutos
+Número promedio de clientes en cola: 162.978
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.795 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.30
+=========================================
+Demora promedio en la cola:      50.394 minutos
+Número promedio de clientes en cola: 163.005
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.782 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.31
+=========================================
+Demora promedio en la cola:      50.393 minutos
+Número promedio de clientes en cola: 163.032
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.770 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.32
+=========================================
+Demora promedio en la cola:      50.393 minutos
+Número promedio de clientes en cola: 163.059
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.757 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.33
+=========================================
+Demora promedio en la cola:      50.392 minutos
+Número promedio de clientes en cola: 163.086
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.745 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.34
+=========================================
+Demora promedio en la cola:      50.391 minutos
+Número promedio de clientes en cola: 163.113
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.733 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.35
+=========================================
+Demora promedio en la cola:      50.391 minutos
+Número promedio de clientes en cola: 163.140
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.720 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.36
+=========================================
+Demora promedio en la cola:      50.390 minutos
+Número promedio de clientes en cola: 163.167
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.708 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.37
+=========================================
+Demora promedio en la cola:      50.389 minutos
+Número promedio de clientes en cola: 163.193
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.695 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.38
+=========================================
+Demora promedio en la cola:      50.389 minutos
+Número promedio de clientes en cola: 163.220
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.683 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.39
+=========================================
+Demora promedio en la cola:      50.388 minutos
+Número promedio de clientes en cola: 163.247
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.671 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.40
+=========================================
+Demora promedio en la cola:      50.388 minutos
+Número promedio de clientes en cola: 163.274
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.658 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.41
+=========================================
+Demora promedio en la cola:      50.387 minutos
+Número promedio de clientes en cola: 163.300
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.646 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.42
+=========================================
+Demora promedio en la cola:      50.386 minutos
+Número promedio de clientes en cola: 163.327
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.634 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.43
+=========================================
+Demora promedio en la cola:      50.386 minutos
+Número promedio de clientes en cola: 163.354
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.621 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.44
+=========================================
+Demora promedio en la cola:      50.385 minutos
+Número promedio de clientes en cola: 163.381
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.609 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.45
+=========================================
+Demora promedio en la cola:      50.385 minutos
+Número promedio de clientes en cola: 163.407
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.597 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.46
+=========================================
+Demora promedio en la cola:      50.384 minutos
+Número promedio de clientes en cola: 163.434
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.585 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.47
+=========================================
+Demora promedio en la cola:      50.383 minutos
+Número promedio de clientes en cola: 163.460
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.572 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.48
+=========================================
+Demora promedio en la cola:      50.383 minutos
+Número promedio de clientes en cola: 163.487
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.560 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.49
+=========================================
+Demora promedio en la cola:      50.382 minutos
+Número promedio de clientes en cola: 163.513
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.548 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.50
+=========================================
+Demora promedio en la cola:      50.382 minutos
+Número promedio de clientes en cola: 163.539
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.536 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.51
+=========================================
+Demora promedio en la cola:      50.381 minutos
+Número promedio de clientes en cola: 163.566
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.524 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.52
+=========================================
+Demora promedio en la cola:      50.380 minutos
+Número promedio de clientes en cola: 163.592
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.511 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.53
+=========================================
+Demora promedio en la cola:      50.380 minutos
+Número promedio de clientes en cola: 163.619
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.499 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.54
+=========================================
+Demora promedio en la cola:      50.379 minutos
+Número promedio de clientes en cola: 163.645
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.487 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.55
+=========================================
+Demora promedio en la cola:      50.379 minutos
+Número promedio de clientes en cola: 163.671
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.475 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.56
+=========================================
+Demora promedio en la cola:      50.378 minutos
+Número promedio de clientes en cola: 163.697
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.463 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.57
+=========================================
+Demora promedio en la cola:      50.377 minutos
+Número promedio de clientes en cola: 163.724
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.451 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.58
+=========================================
+Demora promedio en la cola:      50.377 minutos
+Número promedio de clientes en cola: 163.750
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.439 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.59
+=========================================
+Demora promedio en la cola:      50.376 minutos
+Número promedio de clientes en cola: 163.776
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.427 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.60
+=========================================
+Demora promedio en la cola:      50.376 minutos
+Número promedio de clientes en cola: 163.802
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.415 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.61
+=========================================
+Demora promedio en la cola:      50.375 minutos
+Número promedio de clientes en cola: 163.828
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.403 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.62
+=========================================
+Demora promedio en la cola:      50.374 minutos
+Número promedio de clientes en cola: 163.854
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.391 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.63
+=========================================
+Demora promedio en la cola:      50.374 minutos
+Número promedio de clientes en cola: 163.880
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.379 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.64
+=========================================
+Demora promedio en la cola:      50.373 minutos
+Número promedio de clientes en cola: 163.906
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.367 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.65
+=========================================
+Demora promedio en la cola:      50.373 minutos
+Número promedio de clientes en cola: 163.932
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.355 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.66
+=========================================
+Demora promedio en la cola:      50.372 minutos
+Número promedio de clientes en cola: 163.958
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.343 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.67
+=========================================
+Demora promedio en la cola:      50.371 minutos
+Número promedio de clientes en cola: 163.984
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.331 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.68
+=========================================
+Demora promedio en la cola:      50.371 minutos
+Número promedio de clientes en cola: 164.009
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.319 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.69
+=========================================
+Demora promedio en la cola:      50.370 minutos
+Número promedio de clientes en cola: 164.035
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.307 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.70
+=========================================
+Demora promedio en la cola:      50.370 minutos
+Número promedio de clientes en cola: 164.061
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.295 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.71
+=========================================
+Demora promedio en la cola:      50.369 minutos
+Número promedio de clientes en cola: 164.087
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.284 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.72
+=========================================
+Demora promedio en la cola:      50.368 minutos
+Número promedio de clientes en cola: 164.112
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.272 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.73
+=========================================
+Demora promedio en la cola:      50.368 minutos
+Número promedio de clientes en cola: 164.138
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.260 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.74
+=========================================
+Demora promedio en la cola:      50.367 minutos
+Número promedio de clientes en cola: 164.164
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.248 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.75
+=========================================
+Demora promedio en la cola:      50.367 minutos
+Número promedio de clientes en cola: 164.190
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.236 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.76
+=========================================
+Demora promedio en la cola:      50.366 minutos
+Número promedio de clientes en cola: 164.215
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.224 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.77
+=========================================
+Demora promedio en la cola:      50.366 minutos
+Número promedio de clientes en cola: 164.241
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.213 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.78
+=========================================
+Demora promedio en la cola:      50.365 minutos
+Número promedio de clientes en cola: 164.266
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.201 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.79
+=========================================
+Demora promedio en la cola:      50.364 minutos
+Número promedio de clientes en cola: 164.292
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.189 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.80
+=========================================
+Demora promedio en la cola:      50.364 minutos
+Número promedio de clientes en cola: 164.317
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.177 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.81
+=========================================
+Demora promedio en la cola:      50.363 minutos
+Número promedio de clientes en cola: 164.343
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.166 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.82
+=========================================
+Demora promedio en la cola:      50.363 minutos
+Número promedio de clientes en cola: 164.368
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.154 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.83
+=========================================
+Demora promedio en la cola:      50.362 minutos
+Número promedio de clientes en cola: 164.393
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.142 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.84
+=========================================
+Demora promedio en la cola:      50.362 minutos
+Número promedio de clientes en cola: 164.419
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.131 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.85
+=========================================
+Demora promedio en la cola:      50.361 minutos
+Número promedio de clientes en cola: 164.444
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.119 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.86
+=========================================
+Demora promedio en la cola:      50.360 minutos
+Número promedio de clientes en cola: 164.469
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.107 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.87
+=========================================
+Demora promedio en la cola:      50.360 minutos
+Número promedio de clientes en cola: 164.494
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.096 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.88
+=========================================
+Demora promedio en la cola:      50.359 minutos
+Número promedio de clientes en cola: 164.520
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.084 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.89
+=========================================
+Demora promedio en la cola:      50.359 minutos
+Número promedio de clientes en cola: 164.545
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.073 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.90
+=========================================
+Demora promedio en la cola:      50.358 minutos
+Número promedio de clientes en cola: 164.570
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.061 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.91
+=========================================
+Demora promedio en la cola:      50.358 minutos
+Número promedio de clientes en cola: 164.595
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.049 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.92
+=========================================
+Demora promedio en la cola:      50.357 minutos
+Número promedio de clientes en cola: 164.620
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.038 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.93
+=========================================
+Demora promedio en la cola:      50.356 minutos
+Número promedio de clientes en cola: 164.645
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.026 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.94
+=========================================
+Demora promedio en la cola:      50.356 minutos
+Número promedio de clientes en cola: 164.670
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.015 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.95
+=========================================
+Demora promedio en la cola:      50.355 minutos
+Número promedio de clientes en cola: 164.695
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.003 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.96
+=========================================
+Demora promedio en la cola:      50.355 minutos
+Número promedio de clientes en cola: 164.720
+Utilización de los servidores:   0.808
+Tiempo de terminación:           540.992 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 15.97
+=========================================
+Demora promedio en la cola:      50.354 minutos
+Número promedio de clientes en cola: 164.745
+Utilización de los servidores:   0.808
+Tiempo de terminación:           540.980 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 15.98
+=========================================
+Demora promedio en la cola:      50.354 minutos
+Número promedio de clientes en cola: 164.770
+Utilización de los servidores:   0.809
+Tiempo de terminación:           540.969 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 15.99
+=========================================
+Demora promedio en la cola:      50.353 minutos
+Número promedio de clientes en cola: 164.795
+Utilización de los servidores:   0.809
+Tiempo de terminación:           540.958 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 16.00
+=========================================
+Demora promedio en la cola:      50.352 minutos
+Número promedio de clientes en cola: 164.820
+Utilización de los servidores:   0.809
+Tiempo de terminación:           540.946 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 14.00
+=========================================
+Demora promedio en la cola:      50.482 minutos
+Número promedio de clientes en cola: 159.171
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.558 minutos
+Probabilidad de que haya cola:   1.565
+=========================================
+
+=========================================
+Simulación con λ1 = 14.01
+=========================================
+Demora promedio en la cola:      50.481 minutos
+Número promedio de clientes en cola: 159.203
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.543 minutos
+Probabilidad de que haya cola:   1.565
+=========================================
+
+=========================================
+Simulación con λ1 = 14.02
+=========================================
+Demora promedio en la cola:      50.480 minutos
+Número promedio de clientes en cola: 159.235
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.528 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.03
+=========================================
+Demora promedio en la cola:      50.479 minutos
+Número promedio de clientes en cola: 159.267
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.513 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.04
+=========================================
+Demora promedio en la cola:      50.479 minutos
+Número promedio de clientes en cola: 159.299
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.498 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.05
+=========================================
+Demora promedio en la cola:      50.478 minutos
+Número promedio de clientes en cola: 159.331
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.483 minutos
+Probabilidad de que haya cola:   1.566
+=========================================
+
+=========================================
+Simulación con λ1 = 14.06
+=========================================
+Demora promedio en la cola:      50.477 minutos
+Número promedio de clientes en cola: 159.363
+Utilización de los servidores:   0.783
+Tiempo de terminación:           543.468 minutos
+Probabilidad de que haya cola:   1.567
+=========================================
+
+=========================================
+Simulación con λ1 = 14.07
+=========================================
+Demora promedio en la cola:      50.477 minutos
+Número promedio de clientes en cola: 159.394
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.454 minutos
+Probabilidad de que haya cola:   1.567
+=========================================
+
+=========================================
+Simulación con λ1 = 14.08
+=========================================
+Demora promedio en la cola:      50.476 minutos
+Número promedio de clientes en cola: 159.426
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.439 minutos
+Probabilidad de que haya cola:   1.567
+=========================================
+
+=========================================
+Simulación con λ1 = 14.09
+=========================================
+Demora promedio en la cola:      50.475 minutos
+Número promedio de clientes en cola: 159.458
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.424 minutos
+Probabilidad de que haya cola:   1.568
+=========================================
+
+=========================================
+Simulación con λ1 = 14.10
+=========================================
+Demora promedio en la cola:      50.474 minutos
+Número promedio de clientes en cola: 159.490
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.409 minutos
+Probabilidad de que haya cola:   1.568
+=========================================
+
+=========================================
+Simulación con λ1 = 14.11
+=========================================
+Demora promedio en la cola:      50.474 minutos
+Número promedio de clientes en cola: 159.521
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.395 minutos
+Probabilidad de que haya cola:   1.568
+=========================================
+
+=========================================
+Simulación con λ1 = 14.12
+=========================================
+Demora promedio en la cola:      50.473 minutos
+Número promedio de clientes en cola: 159.553
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.380 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.13
+=========================================
+Demora promedio en la cola:      50.472 minutos
+Número promedio de clientes en cola: 159.584
+Utilización de los servidores:   0.784
+Tiempo de terminación:           543.365 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.14
+=========================================
+Demora promedio en la cola:      50.471 minutos
+Número promedio de clientes en cola: 159.616
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.351 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.15
+=========================================
+Demora promedio en la cola:      50.471 minutos
+Número promedio de clientes en cola: 159.647
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.336 minutos
+Probabilidad de que haya cola:   1.569
+=========================================
+
+=========================================
+Simulación con λ1 = 14.16
+=========================================
+Demora promedio en la cola:      50.470 minutos
+Número promedio de clientes en cola: 159.679
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.321 minutos
+Probabilidad de que haya cola:   1.570
+=========================================
+
+=========================================
+Simulación con λ1 = 14.17
+=========================================
+Demora promedio en la cola:      50.469 minutos
+Número promedio de clientes en cola: 159.710
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.307 minutos
+Probabilidad de que haya cola:   1.570
+=========================================
+
+=========================================
+Simulación con λ1 = 14.18
+=========================================
+Demora promedio en la cola:      50.469 minutos
+Número promedio de clientes en cola: 159.742
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.292 minutos
+Probabilidad de que haya cola:   1.570
+=========================================
+
+=========================================
+Simulación con λ1 = 14.19
+=========================================
+Demora promedio en la cola:      50.468 minutos
+Número promedio de clientes en cola: 159.773
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.278 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.20
+=========================================
+Demora promedio en la cola:      50.467 minutos
+Número promedio de clientes en cola: 159.804
+Utilización de los servidores:   0.785
+Tiempo de terminación:           543.263 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.21
+=========================================
+Demora promedio en la cola:      50.466 minutos
+Número promedio de clientes en cola: 159.836
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.249 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.22
+=========================================
+Demora promedio en la cola:      50.466 minutos
+Número promedio de clientes en cola: 159.867
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.234 minutos
+Probabilidad de que haya cola:   1.571
+=========================================
+
+=========================================
+Simulación con λ1 = 14.23
+=========================================
+Demora promedio en la cola:      50.465 minutos
+Número promedio de clientes en cola: 159.898
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.220 minutos
+Probabilidad de que haya cola:   1.572
+=========================================
+
+=========================================
+Simulación con λ1 = 14.24
+=========================================
+Demora promedio en la cola:      50.464 minutos
+Número promedio de clientes en cola: 159.929
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.205 minutos
+Probabilidad de que haya cola:   1.572
+=========================================
+
+=========================================
+Simulación con λ1 = 14.25
+=========================================
+Demora promedio en la cola:      50.464 minutos
+Número promedio de clientes en cola: 159.960
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.191 minutos
+Probabilidad de que haya cola:   1.572
+=========================================
+
+=========================================
+Simulación con λ1 = 14.26
+=========================================
+Demora promedio en la cola:      50.463 minutos
+Número promedio de clientes en cola: 159.991
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.177 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.27
+=========================================
+Demora promedio en la cola:      50.462 minutos
+Número promedio de clientes en cola: 160.022
+Utilización de los servidores:   0.786
+Tiempo de terminación:           543.162 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.28
+=========================================
+Demora promedio en la cola:      50.461 minutos
+Número promedio de clientes en cola: 160.053
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.148 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.29
+=========================================
+Demora promedio en la cola:      50.461 minutos
+Número promedio de clientes en cola: 160.084
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.134 minutos
+Probabilidad de que haya cola:   1.573
+=========================================
+
+=========================================
+Simulación con λ1 = 14.30
+=========================================
+Demora promedio en la cola:      50.460 minutos
+Número promedio de clientes en cola: 160.115
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.119 minutos
+Probabilidad de que haya cola:   1.574
+=========================================
+
+=========================================
+Simulación con λ1 = 14.31
+=========================================
+Demora promedio en la cola:      50.459 minutos
+Número promedio de clientes en cola: 160.146
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.105 minutos
+Probabilidad de que haya cola:   1.574
+=========================================
+
+=========================================
+Simulación con λ1 = 14.32
+=========================================
+Demora promedio en la cola:      50.459 minutos
+Número promedio de clientes en cola: 160.177
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.091 minutos
+Probabilidad de que haya cola:   1.574
+=========================================
+
+=========================================
+Simulación con λ1 = 14.33
+=========================================
+Demora promedio en la cola:      50.458 minutos
+Número promedio de clientes en cola: 160.207
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.076 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.34
+=========================================
+Demora promedio en la cola:      50.457 minutos
+Número promedio de clientes en cola: 160.238
+Utilización de los servidores:   0.787
+Tiempo de terminación:           543.062 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.35
+=========================================
+Demora promedio en la cola:      50.456 minutos
+Número promedio de clientes en cola: 160.269
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.048 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.36
+=========================================
+Demora promedio en la cola:      50.456 minutos
+Número promedio de clientes en cola: 160.299
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.034 minutos
+Probabilidad de que haya cola:   1.575
+=========================================
+
+=========================================
+Simulación con λ1 = 14.37
+=========================================
+Demora promedio en la cola:      50.455 minutos
+Número promedio de clientes en cola: 160.330
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.020 minutos
+Probabilidad de que haya cola:   1.576
+=========================================
+
+=========================================
+Simulación con λ1 = 14.38
+=========================================
+Demora promedio en la cola:      50.454 minutos
+Número promedio de clientes en cola: 160.360
+Utilización de los servidores:   0.788
+Tiempo de terminación:           543.005 minutos
+Probabilidad de que haya cola:   1.576
+=========================================
+
+=========================================
+Simulación con λ1 = 14.39
+=========================================
+Demora promedio en la cola:      50.454 minutos
+Número promedio de clientes en cola: 160.391
+Utilización de los servidores:   0.788
+Tiempo de terminación:           542.991 minutos
+Probabilidad de que haya cola:   1.576
+=========================================
+
+=========================================
+Simulación con λ1 = 14.40
+=========================================
+Demora promedio en la cola:      50.453 minutos
+Número promedio de clientes en cola: 160.421
+Utilización de los servidores:   0.788
+Tiempo de terminación:           542.977 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.41
+=========================================
+Demora promedio en la cola:      50.452 minutos
+Número promedio de clientes en cola: 160.452
+Utilización de los servidores:   0.788
+Tiempo de terminación:           542.963 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.42
+=========================================
+Demora promedio en la cola:      50.452 minutos
+Número promedio de clientes en cola: 160.482
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.949 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.43
+=========================================
+Demora promedio en la cola:      50.451 minutos
+Número promedio de clientes en cola: 160.512
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.935 minutos
+Probabilidad de que haya cola:   1.577
+=========================================
+
+=========================================
+Simulación con λ1 = 14.44
+=========================================
+Demora promedio en la cola:      50.450 minutos
+Número promedio de clientes en cola: 160.543
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.921 minutos
+Probabilidad de que haya cola:   1.578
+=========================================
+
+=========================================
+Simulación con λ1 = 14.45
+=========================================
+Demora promedio en la cola:      50.449 minutos
+Número promedio de clientes en cola: 160.573
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.907 minutos
+Probabilidad de que haya cola:   1.578
+=========================================
+
+=========================================
+Simulación con λ1 = 14.46
+=========================================
+Demora promedio en la cola:      50.449 minutos
+Número promedio de clientes en cola: 160.603
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.893 minutos
+Probabilidad de que haya cola:   1.578
+=========================================
+
+=========================================
+Simulación con λ1 = 14.47
+=========================================
+Demora promedio en la cola:      50.448 minutos
+Número promedio de clientes en cola: 160.633
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.879 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.48
+=========================================
+Demora promedio en la cola:      50.447 minutos
+Número promedio de clientes en cola: 160.663
+Utilización de los servidores:   0.789
+Tiempo de terminación:           542.865 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.49
+=========================================
+Demora promedio en la cola:      50.447 minutos
+Número promedio de clientes en cola: 160.694
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.851 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.50
+=========================================
+Demora promedio en la cola:      50.446 minutos
+Número promedio de clientes en cola: 160.724
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.837 minutos
+Probabilidad de que haya cola:   1.579
+=========================================
+
+=========================================
+Simulación con λ1 = 14.51
+=========================================
+Demora promedio en la cola:      50.445 minutos
+Número promedio de clientes en cola: 160.754
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.823 minutos
+Probabilidad de que haya cola:   1.580
+=========================================
+
+=========================================
+Simulación con λ1 = 14.52
+=========================================
+Demora promedio en la cola:      50.445 minutos
+Número promedio de clientes en cola: 160.784
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.809 minutos
+Probabilidad de que haya cola:   1.580
+=========================================
+
+=========================================
+Simulación con λ1 = 14.53
+=========================================
+Demora promedio en la cola:      50.444 minutos
+Número promedio de clientes en cola: 160.813
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.795 minutos
+Probabilidad de que haya cola:   1.580
+=========================================
+
+=========================================
+Simulación con λ1 = 14.54
+=========================================
+Demora promedio en la cola:      50.443 minutos
+Número promedio de clientes en cola: 160.843
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.782 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.55
+=========================================
+Demora promedio en la cola:      50.443 minutos
+Número promedio de clientes en cola: 160.873
+Utilización de los servidores:   0.790
+Tiempo de terminación:           542.768 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.56
+=========================================
+Demora promedio en la cola:      50.442 minutos
+Número promedio de clientes en cola: 160.903
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.754 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.57
+=========================================
+Demora promedio en la cola:      50.441 minutos
+Número promedio de clientes en cola: 160.933
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.740 minutos
+Probabilidad de que haya cola:   1.581
+=========================================
+
+=========================================
+Simulación con λ1 = 14.58
+=========================================
+Demora promedio en la cola:      50.441 minutos
+Número promedio de clientes en cola: 160.962
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.726 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.59
+=========================================
+Demora promedio en la cola:      50.440 minutos
+Número promedio de clientes en cola: 160.992
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.713 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.60
+=========================================
+Demora promedio en la cola:      50.439 minutos
+Número promedio de clientes en cola: 161.022
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.699 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.61
+=========================================
+Demora promedio en la cola:      50.438 minutos
+Número promedio de clientes en cola: 161.051
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.685 minutos
+Probabilidad de que haya cola:   1.582
+=========================================
+
+=========================================
+Simulación con λ1 = 14.62
+=========================================
+Demora promedio en la cola:      50.438 minutos
+Número promedio de clientes en cola: 161.081
+Utilización de los servidores:   0.791
+Tiempo de terminación:           542.672 minutos
+Probabilidad de que haya cola:   1.583
+=========================================
+
+=========================================
+Simulación con λ1 = 14.63
+=========================================
+Demora promedio en la cola:      50.437 minutos
+Número promedio de clientes en cola: 161.111
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.658 minutos
+Probabilidad de que haya cola:   1.583
+=========================================
+
+=========================================
+Simulación con λ1 = 14.64
+=========================================
+Demora promedio en la cola:      50.436 minutos
+Número promedio de clientes en cola: 161.140
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.644 minutos
+Probabilidad de que haya cola:   1.583
+=========================================
+
+=========================================
+Simulación con λ1 = 14.65
+=========================================
+Demora promedio en la cola:      50.436 minutos
+Número promedio de clientes en cola: 161.169
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.631 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.66
+=========================================
+Demora promedio en la cola:      50.435 minutos
+Número promedio de clientes en cola: 161.199
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.617 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.67
+=========================================
+Demora promedio en la cola:      50.434 minutos
+Número promedio de clientes en cola: 161.228
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.603 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.68
+=========================================
+Demora promedio en la cola:      50.434 minutos
+Número promedio de clientes en cola: 161.258
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.590 minutos
+Probabilidad de que haya cola:   1.584
+=========================================
+
+=========================================
+Simulación con λ1 = 14.69
+=========================================
+Demora promedio en la cola:      50.433 minutos
+Número promedio de clientes en cola: 161.287
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.576 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.70
+=========================================
+Demora promedio en la cola:      50.432 minutos
+Número promedio de clientes en cola: 161.316
+Utilización de los servidores:   0.792
+Tiempo de terminación:           542.563 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.71
+=========================================
+Demora promedio en la cola:      50.432 minutos
+Número promedio de clientes en cola: 161.345
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.549 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.72
+=========================================
+Demora promedio en la cola:      50.431 minutos
+Número promedio de clientes en cola: 161.375
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.536 minutos
+Probabilidad de que haya cola:   1.585
+=========================================
+
+=========================================
+Simulación con λ1 = 14.73
+=========================================
+Demora promedio en la cola:      50.430 minutos
+Número promedio de clientes en cola: 161.404
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.522 minutos
+Probabilidad de que haya cola:   1.586
+=========================================
+
+=========================================
+Simulación con λ1 = 14.74
+=========================================
+Demora promedio en la cola:      50.430 minutos
+Número promedio de clientes en cola: 161.433
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.509 minutos
+Probabilidad de que haya cola:   1.586
+=========================================
+
+=========================================
+Simulación con λ1 = 14.75
+=========================================
+Demora promedio en la cola:      50.429 minutos
+Número promedio de clientes en cola: 161.462
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.495 minutos
+Probabilidad de que haya cola:   1.586
+=========================================
+
+=========================================
+Simulación con λ1 = 14.76
+=========================================
+Demora promedio en la cola:      50.428 minutos
+Número promedio de clientes en cola: 161.491
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.482 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.77
+=========================================
+Demora promedio en la cola:      50.428 minutos
+Número promedio de clientes en cola: 161.520
+Utilización de los servidores:   0.793
+Tiempo de terminación:           542.468 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.78
+=========================================
+Demora promedio en la cola:      50.427 minutos
+Número promedio de clientes en cola: 161.549
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.455 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.79
+=========================================
+Demora promedio en la cola:      50.426 minutos
+Número promedio de clientes en cola: 161.578
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.442 minutos
+Probabilidad de que haya cola:   1.587
+=========================================
+
+=========================================
+Simulación con λ1 = 14.80
+=========================================
+Demora promedio en la cola:      50.426 minutos
+Número promedio de clientes en cola: 161.607
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.428 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.81
+=========================================
+Demora promedio en la cola:      50.425 minutos
+Número promedio de clientes en cola: 161.636
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.415 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.82
+=========================================
+Demora promedio en la cola:      50.424 minutos
+Número promedio de clientes en cola: 161.664
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.402 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.83
+=========================================
+Demora promedio en la cola:      50.424 minutos
+Número promedio de clientes en cola: 161.693
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.388 minutos
+Probabilidad de que haya cola:   1.588
+=========================================
+
+=========================================
+Simulación con λ1 = 14.84
+=========================================
+Demora promedio en la cola:      50.423 minutos
+Número promedio de clientes en cola: 161.722
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.375 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.85
+=========================================
+Demora promedio en la cola:      50.422 minutos
+Número promedio de clientes en cola: 161.751
+Utilización de los servidores:   0.794
+Tiempo de terminación:           542.362 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.86
+=========================================
+Demora promedio en la cola:      50.422 minutos
+Número promedio de clientes en cola: 161.779
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.348 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.87
+=========================================
+Demora promedio en la cola:      50.421 minutos
+Número promedio de clientes en cola: 161.808
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.335 minutos
+Probabilidad de que haya cola:   1.589
+=========================================
+
+=========================================
+Simulación con λ1 = 14.88
+=========================================
+Demora promedio en la cola:      50.421 minutos
+Número promedio de clientes en cola: 161.836
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.322 minutos
+Probabilidad de que haya cola:   1.590
+=========================================
+
+=========================================
+Simulación con λ1 = 14.89
+=========================================
+Demora promedio en la cola:      50.420 minutos
+Número promedio de clientes en cola: 161.865
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.309 minutos
+Probabilidad de que haya cola:   1.590
+=========================================
+
+=========================================
+Simulación con λ1 = 14.90
+=========================================
+Demora promedio en la cola:      50.419 minutos
+Número promedio de clientes en cola: 161.894
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.296 minutos
+Probabilidad de que haya cola:   1.590
+=========================================
+
+=========================================
+Simulación con λ1 = 14.91
+=========================================
+Demora promedio en la cola:      50.419 minutos
+Número promedio de clientes en cola: 161.922
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.282 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.92
+=========================================
+Demora promedio en la cola:      50.418 minutos
+Número promedio de clientes en cola: 161.951
+Utilización de los servidores:   0.795
+Tiempo de terminación:           542.269 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.93
+=========================================
+Demora promedio en la cola:      50.417 minutos
+Número promedio de clientes en cola: 161.979
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.256 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.94
+=========================================
+Demora promedio en la cola:      50.417 minutos
+Número promedio de clientes en cola: 162.007
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.243 minutos
+Probabilidad de que haya cola:   1.591
+=========================================
+
+=========================================
+Simulación con λ1 = 14.95
+=========================================
+Demora promedio en la cola:      50.416 minutos
+Número promedio de clientes en cola: 162.036
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.230 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.96
+=========================================
+Demora promedio en la cola:      50.415 minutos
+Número promedio de clientes en cola: 162.064
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.217 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.97
+=========================================
+Demora promedio en la cola:      50.415 minutos
+Número promedio de clientes en cola: 162.092
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.204 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.98
+=========================================
+Demora promedio en la cola:      50.414 minutos
+Número promedio de clientes en cola: 162.120
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.191 minutos
+Probabilidad de que haya cola:   1.592
+=========================================
+
+=========================================
+Simulación con λ1 = 14.99
+=========================================
+Demora promedio en la cola:      50.413 minutos
+Número promedio de clientes en cola: 162.149
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.178 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.00
+=========================================
+Demora promedio en la cola:      50.413 minutos
+Número promedio de clientes en cola: 162.177
+Utilización de los servidores:   0.796
+Tiempo de terminación:           542.165 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.01
+=========================================
+Demora promedio en la cola:      50.412 minutos
+Número promedio de clientes en cola: 162.205
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.152 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.02
+=========================================
+Demora promedio en la cola:      50.411 minutos
+Número promedio de clientes en cola: 162.233
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.139 minutos
+Probabilidad de que haya cola:   1.593
+=========================================
+
+=========================================
+Simulación con λ1 = 15.03
+=========================================
+Demora promedio en la cola:      50.411 minutos
+Número promedio de clientes en cola: 162.261
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.126 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.04
+=========================================
+Demora promedio en la cola:      50.410 minutos
+Número promedio de clientes en cola: 162.289
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.113 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.05
+=========================================
+Demora promedio en la cola:      50.410 minutos
+Número promedio de clientes en cola: 162.317
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.100 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.06
+=========================================
+Demora promedio en la cola:      50.409 minutos
+Número promedio de clientes en cola: 162.345
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.087 minutos
+Probabilidad de que haya cola:   1.594
+=========================================
+
+=========================================
+Simulación con λ1 = 15.07
+=========================================
+Demora promedio en la cola:      50.408 minutos
+Número promedio de clientes en cola: 162.373
+Utilización de los servidores:   0.797
+Tiempo de terminación:           542.074 minutos
+Probabilidad de que haya cola:   1.595
+=========================================
+
+=========================================
+Simulación con λ1 = 15.08
+=========================================
+Demora promedio en la cola:      50.408 minutos
+Número promedio de clientes en cola: 162.401
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.061 minutos
+Probabilidad de que haya cola:   1.595
+=========================================
+
+=========================================
+Simulación con λ1 = 15.09
+=========================================
+Demora promedio en la cola:      50.407 minutos
+Número promedio de clientes en cola: 162.429
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.048 minutos
+Probabilidad de que haya cola:   1.595
+=========================================
+
+=========================================
+Simulación con λ1 = 15.10
+=========================================
+Demora promedio en la cola:      50.406 minutos
+Número promedio de clientes en cola: 162.456
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.036 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.11
+=========================================
+Demora promedio en la cola:      50.406 minutos
+Número promedio de clientes en cola: 162.484
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.023 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.12
+=========================================
+Demora promedio en la cola:      50.405 minutos
+Número promedio de clientes en cola: 162.512
+Utilización de los servidores:   0.798
+Tiempo de terminación:           542.010 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.13
+=========================================
+Demora promedio en la cola:      50.404 minutos
+Número promedio de clientes en cola: 162.539
+Utilización de los servidores:   0.798
+Tiempo de terminación:           541.997 minutos
+Probabilidad de que haya cola:   1.596
+=========================================
+
+=========================================
+Simulación con λ1 = 15.14
+=========================================
+Demora promedio en la cola:      50.404 minutos
+Número promedio de clientes en cola: 162.567
+Utilización de los servidores:   0.798
+Tiempo de terminación:           541.984 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.15
+=========================================
+Demora promedio en la cola:      50.403 minutos
+Número promedio de clientes en cola: 162.595
+Utilización de los servidores:   0.798
+Tiempo de terminación:           541.972 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.16
+=========================================
+Demora promedio en la cola:      50.403 minutos
+Número promedio de clientes en cola: 162.622
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.959 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.17
+=========================================
+Demora promedio en la cola:      50.402 minutos
+Número promedio de clientes en cola: 162.650
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.946 minutos
+Probabilidad de que haya cola:   1.597
+=========================================
+
+=========================================
+Simulación con λ1 = 15.18
+=========================================
+Demora promedio en la cola:      50.401 minutos
+Número promedio de clientes en cola: 162.677
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.934 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.19
+=========================================
+Demora promedio en la cola:      50.401 minutos
+Número promedio de clientes en cola: 162.705
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.921 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.20
+=========================================
+Demora promedio en la cola:      50.400 minutos
+Número promedio de clientes en cola: 162.732
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.908 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.21
+=========================================
+Demora promedio en la cola:      50.399 minutos
+Número promedio de clientes en cola: 162.759
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.896 minutos
+Probabilidad de que haya cola:   1.598
+=========================================
+
+=========================================
+Simulación con λ1 = 15.22
+=========================================
+Demora promedio en la cola:      50.399 minutos
+Número promedio de clientes en cola: 162.787
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.883 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.23
+=========================================
+Demora promedio en la cola:      50.398 minutos
+Número promedio de clientes en cola: 162.814
+Utilización de los servidores:   0.799
+Tiempo de terminación:           541.870 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.24
+=========================================
+Demora promedio en la cola:      50.398 minutos
+Número promedio de clientes en cola: 162.842
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.858 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.25
+=========================================
+Demora promedio en la cola:      50.397 minutos
+Número promedio de clientes en cola: 162.869
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.845 minutos
+Probabilidad de que haya cola:   1.599
+=========================================
+
+=========================================
+Simulación con λ1 = 15.26
+=========================================
+Demora promedio en la cola:      50.396 minutos
+Número promedio de clientes en cola: 162.896
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.833 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.27
+=========================================
+Demora promedio en la cola:      50.396 minutos
+Número promedio de clientes en cola: 162.923
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.820 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.28
+=========================================
+Demora promedio en la cola:      50.395 minutos
+Número promedio de clientes en cola: 162.950
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.807 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.29
+=========================================
+Demora promedio en la cola:      50.394 minutos
+Número promedio de clientes en cola: 162.978
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.795 minutos
+Probabilidad de que haya cola:   1.600
+=========================================
+
+=========================================
+Simulación con λ1 = 15.30
+=========================================
+Demora promedio en la cola:      50.394 minutos
+Número promedio de clientes en cola: 163.005
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.782 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.31
+=========================================
+Demora promedio en la cola:      50.393 minutos
+Número promedio de clientes en cola: 163.032
+Utilización de los servidores:   0.800
+Tiempo de terminación:           541.770 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.32
+=========================================
+Demora promedio en la cola:      50.393 minutos
+Número promedio de clientes en cola: 163.059
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.757 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.33
+=========================================
+Demora promedio en la cola:      50.392 minutos
+Número promedio de clientes en cola: 163.086
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.745 minutos
+Probabilidad de que haya cola:   1.601
+=========================================
+
+=========================================
+Simulación con λ1 = 15.34
+=========================================
+Demora promedio en la cola:      50.391 minutos
+Número promedio de clientes en cola: 163.113
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.733 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.35
+=========================================
+Demora promedio en la cola:      50.391 minutos
+Número promedio de clientes en cola: 163.140
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.720 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.36
+=========================================
+Demora promedio en la cola:      50.390 minutos
+Número promedio de clientes en cola: 163.167
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.708 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.37
+=========================================
+Demora promedio en la cola:      50.389 minutos
+Número promedio de clientes en cola: 163.193
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.695 minutos
+Probabilidad de que haya cola:   1.602
+=========================================
+
+=========================================
+Simulación con λ1 = 15.38
+=========================================
+Demora promedio en la cola:      50.389 minutos
+Número promedio de clientes en cola: 163.220
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.683 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.39
+=========================================
+Demora promedio en la cola:      50.388 minutos
+Número promedio de clientes en cola: 163.247
+Utilización de los servidores:   0.801
+Tiempo de terminación:           541.671 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.40
+=========================================
+Demora promedio en la cola:      50.388 minutos
+Número promedio de clientes en cola: 163.274
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.658 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.41
+=========================================
+Demora promedio en la cola:      50.387 minutos
+Número promedio de clientes en cola: 163.300
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.646 minutos
+Probabilidad de que haya cola:   1.603
+=========================================
+
+=========================================
+Simulación con λ1 = 15.42
+=========================================
+Demora promedio en la cola:      50.386 minutos
+Número promedio de clientes en cola: 163.327
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.634 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.43
+=========================================
+Demora promedio en la cola:      50.386 minutos
+Número promedio de clientes en cola: 163.354
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.621 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.44
+=========================================
+Demora promedio en la cola:      50.385 minutos
+Número promedio de clientes en cola: 163.381
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.609 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.45
+=========================================
+Demora promedio en la cola:      50.385 minutos
+Número promedio de clientes en cola: 163.407
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.597 minutos
+Probabilidad de que haya cola:   1.604
+=========================================
+
+=========================================
+Simulación con λ1 = 15.46
+=========================================
+Demora promedio en la cola:      50.384 minutos
+Número promedio de clientes en cola: 163.434
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.585 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.47
+=========================================
+Demora promedio en la cola:      50.383 minutos
+Número promedio de clientes en cola: 163.460
+Utilización de los servidores:   0.802
+Tiempo de terminación:           541.572 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.48
+=========================================
+Demora promedio en la cola:      50.383 minutos
+Número promedio de clientes en cola: 163.487
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.560 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.49
+=========================================
+Demora promedio en la cola:      50.382 minutos
+Número promedio de clientes en cola: 163.513
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.548 minutos
+Probabilidad de que haya cola:   1.605
+=========================================
+
+=========================================
+Simulación con λ1 = 15.50
+=========================================
+Demora promedio en la cola:      50.382 minutos
+Número promedio de clientes en cola: 163.539
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.536 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.51
+=========================================
+Demora promedio en la cola:      50.381 minutos
+Número promedio de clientes en cola: 163.566
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.524 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.52
+=========================================
+Demora promedio en la cola:      50.380 minutos
+Número promedio de clientes en cola: 163.592
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.511 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.53
+=========================================
+Demora promedio en la cola:      50.380 minutos
+Número promedio de clientes en cola: 163.619
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.499 minutos
+Probabilidad de que haya cola:   1.606
+=========================================
+
+=========================================
+Simulación con λ1 = 15.54
+=========================================
+Demora promedio en la cola:      50.379 minutos
+Número promedio de clientes en cola: 163.645
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.487 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.55
+=========================================
+Demora promedio en la cola:      50.379 minutos
+Número promedio de clientes en cola: 163.671
+Utilización de los servidores:   0.803
+Tiempo de terminación:           541.475 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.56
+=========================================
+Demora promedio en la cola:      50.378 minutos
+Número promedio de clientes en cola: 163.697
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.463 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.57
+=========================================
+Demora promedio en la cola:      50.377 minutos
+Número promedio de clientes en cola: 163.724
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.451 minutos
+Probabilidad de que haya cola:   1.607
+=========================================
+
+=========================================
+Simulación con λ1 = 15.58
+=========================================
+Demora promedio en la cola:      50.377 minutos
+Número promedio de clientes en cola: 163.750
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.439 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.59
+=========================================
+Demora promedio en la cola:      50.376 minutos
+Número promedio de clientes en cola: 163.776
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.427 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.60
+=========================================
+Demora promedio en la cola:      50.376 minutos
+Número promedio de clientes en cola: 163.802
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.415 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.61
+=========================================
+Demora promedio en la cola:      50.375 minutos
+Número promedio de clientes en cola: 163.828
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.403 minutos
+Probabilidad de que haya cola:   1.608
+=========================================
+
+=========================================
+Simulación con λ1 = 15.62
+=========================================
+Demora promedio en la cola:      50.374 minutos
+Número promedio de clientes en cola: 163.854
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.391 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.63
+=========================================
+Demora promedio en la cola:      50.374 minutos
+Número promedio de clientes en cola: 163.880
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.379 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.64
+=========================================
+Demora promedio en la cola:      50.373 minutos
+Número promedio de clientes en cola: 163.906
+Utilización de los servidores:   0.804
+Tiempo de terminación:           541.367 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.65
+=========================================
+Demora promedio en la cola:      50.373 minutos
+Número promedio de clientes en cola: 163.932
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.355 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.66
+=========================================
+Demora promedio en la cola:      50.372 minutos
+Número promedio de clientes en cola: 163.958
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.343 minutos
+Probabilidad de que haya cola:   1.609
+=========================================
+
+=========================================
+Simulación con λ1 = 15.67
+=========================================
+Demora promedio en la cola:      50.371 minutos
+Número promedio de clientes en cola: 163.984
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.331 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.68
+=========================================
+Demora promedio en la cola:      50.371 minutos
+Número promedio de clientes en cola: 164.009
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.319 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.69
+=========================================
+Demora promedio en la cola:      50.370 minutos
+Número promedio de clientes en cola: 164.035
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.307 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.70
+=========================================
+Demora promedio en la cola:      50.370 minutos
+Número promedio de clientes en cola: 164.061
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.295 minutos
+Probabilidad de que haya cola:   1.610
+=========================================
+
+=========================================
+Simulación con λ1 = 15.71
+=========================================
+Demora promedio en la cola:      50.369 minutos
+Número promedio de clientes en cola: 164.087
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.284 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.72
+=========================================
+Demora promedio en la cola:      50.368 minutos
+Número promedio de clientes en cola: 164.112
+Utilización de los servidores:   0.805
+Tiempo de terminación:           541.272 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.73
+=========================================
+Demora promedio en la cola:      50.368 minutos
+Número promedio de clientes en cola: 164.138
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.260 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.74
+=========================================
+Demora promedio en la cola:      50.367 minutos
+Número promedio de clientes en cola: 164.164
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.248 minutos
+Probabilidad de que haya cola:   1.611
+=========================================
+
+=========================================
+Simulación con λ1 = 15.75
+=========================================
+Demora promedio en la cola:      50.367 minutos
+Número promedio de clientes en cola: 164.190
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.236 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.76
+=========================================
+Demora promedio en la cola:      50.366 minutos
+Número promedio de clientes en cola: 164.215
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.224 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.77
+=========================================
+Demora promedio en la cola:      50.366 minutos
+Número promedio de clientes en cola: 164.241
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.213 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.78
+=========================================
+Demora promedio en la cola:      50.365 minutos
+Número promedio de clientes en cola: 164.266
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.201 minutos
+Probabilidad de que haya cola:   1.612
+=========================================
+
+=========================================
+Simulación con λ1 = 15.79
+=========================================
+Demora promedio en la cola:      50.364 minutos
+Número promedio de clientes en cola: 164.292
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.189 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.80
+=========================================
+Demora promedio en la cola:      50.364 minutos
+Número promedio de clientes en cola: 164.317
+Utilización de los servidores:   0.806
+Tiempo de terminación:           541.177 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.81
+=========================================
+Demora promedio en la cola:      50.363 minutos
+Número promedio de clientes en cola: 164.343
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.166 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.82
+=========================================
+Demora promedio en la cola:      50.363 minutos
+Número promedio de clientes en cola: 164.368
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.154 minutos
+Probabilidad de que haya cola:   1.613
+=========================================
+
+=========================================
+Simulación con λ1 = 15.83
+=========================================
+Demora promedio en la cola:      50.362 minutos
+Número promedio de clientes en cola: 164.393
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.142 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.84
+=========================================
+Demora promedio en la cola:      50.362 minutos
+Número promedio de clientes en cola: 164.419
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.131 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.85
+=========================================
+Demora promedio en la cola:      50.361 minutos
+Número promedio de clientes en cola: 164.444
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.119 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.86
+=========================================
+Demora promedio en la cola:      50.360 minutos
+Número promedio de clientes en cola: 164.469
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.107 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.87
+=========================================
+Demora promedio en la cola:      50.360 minutos
+Número promedio de clientes en cola: 164.494
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.096 minutos
+Probabilidad de que haya cola:   1.614
+=========================================
+
+=========================================
+Simulación con λ1 = 15.88
+=========================================
+Demora promedio en la cola:      50.359 minutos
+Número promedio de clientes en cola: 164.520
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.084 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.89
+=========================================
+Demora promedio en la cola:      50.359 minutos
+Número promedio de clientes en cola: 164.545
+Utilización de los servidores:   0.807
+Tiempo de terminación:           541.073 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.90
+=========================================
+Demora promedio en la cola:      50.358 minutos
+Número promedio de clientes en cola: 164.570
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.061 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.91
+=========================================
+Demora promedio en la cola:      50.358 minutos
+Número promedio de clientes en cola: 164.595
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.049 minutos
+Probabilidad de que haya cola:   1.615
+=========================================
+
+=========================================
+Simulación con λ1 = 15.92
+=========================================
+Demora promedio en la cola:      50.357 minutos
+Número promedio de clientes en cola: 164.620
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.038 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.93
+=========================================
+Demora promedio en la cola:      50.356 minutos
+Número promedio de clientes en cola: 164.645
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.026 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.94
+=========================================
+Demora promedio en la cola:      50.356 minutos
+Número promedio de clientes en cola: 164.670
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.015 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.95
+=========================================
+Demora promedio en la cola:      50.355 minutos
+Número promedio de clientes en cola: 164.695
+Utilización de los servidores:   0.808
+Tiempo de terminación:           541.003 minutos
+Probabilidad de que haya cola:   1.616
+=========================================
+
+=========================================
+Simulación con λ1 = 15.96
+=========================================
+Demora promedio en la cola:      50.355 minutos
+Número promedio de clientes en cola: 164.720
+Utilización de los servidores:   0.808
+Tiempo de terminación:           540.992 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 15.97
+=========================================
+Demora promedio en la cola:      50.354 minutos
+Número promedio de clientes en cola: 164.745
+Utilización de los servidores:   0.808
+Tiempo de terminación:           540.980 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 15.98
+=========================================
+Demora promedio en la cola:      50.354 minutos
+Número promedio de clientes en cola: 164.770
+Utilización de los servidores:   0.809
+Tiempo de terminación:           540.969 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 15.99
+=========================================
+Demora promedio en la cola:      50.353 minutos
+Número promedio de clientes en cola: 164.795
+Utilización de los servidores:   0.809
+Tiempo de terminación:           540.958 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+
+=========================================
+Simulación con λ1 = 16.00
+=========================================
+Demora promedio en la cola:      50.352 minutos
+Número promedio de clientes en cola: 164.820
+Utilización de los servidores:   0.809
+Tiempo de terminación:           540.946 minutos
+Probabilidad de que haya cola:   1.617
+=========================================
+

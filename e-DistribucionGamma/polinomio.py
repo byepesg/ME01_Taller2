@@ -18,7 +18,7 @@ print("p_cola_vals =", p_cola_vals)
 # p_cola_vals = [0.95, 0.85, 0.70, 0.50, 0.30, 0.10, 0.05]
 
 # Ajuste polinómico de grado 3
-coeficientes = np.polyfit(lambda1_vals, p_cola_vals, 20)
+coeficientes = np.polyfit(lambda1_vals, p_cola_vals, 3)
 polinomio = np.poly1d(coeficientes)
 
 # Graficar
