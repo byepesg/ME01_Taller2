@@ -1,0 +1,19 @@
+Simulador de Colas para Fórmulas de Erlang
+
+Tiempo Medio entre Llegadas: 1.000000
+Tiempo Medio de Servicio:      2.400000
+Número de Llegadas:           10000
+Número de Servidores (N):     3
+Tipo de Simulación: Erlang B (Sistema de Pérdida)
+
+
+
+--- Resultados de la Simulación ---
+Tiempo Total de Simulación: 10207.987811
+Total de Llegadas:          10000
+Total Atendidas:            7307
+Total Bloqueadas:           2693
+Probabilidad de Bloqueo (Simulada): 0.269300
+Carga Ofrecida (A = λ/μ):     2.400000
+Probabilidad de Bloqueo (Teórica Erlang B): 0.268406
+Número Promedio de Servidores Ocupados: 1.746141
