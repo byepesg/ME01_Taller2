@@ -15,4 +15,4 @@ Este repositorio contiene diferentes carpetas que representan distintos puntos d
 ## Instrucciones
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/byepesg/ME01_Taller2/)
+   git clone https://github.com/byepesg/ME01_Taller2/
